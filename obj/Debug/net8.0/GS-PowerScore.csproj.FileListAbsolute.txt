@@ -1,0 +1,8 @@
+C:\Users\live_\source\repos\GS-PowerScore\GS-PowerScore\obj\Debug\net8.0\GS-PowerScore.csproj.AssemblyReference.cache
+C:\Users\live_\source\repos\GS-PowerScore\GS-PowerScore\obj\Debug\net8.0\GS-PowerScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\live_\source\repos\GS-PowerScore\GS-PowerScore\obj\Debug\net8.0\GS-PowerScore.AssemblyInfoInputs.cache
+C:\Users\live_\source\repos\GS-PowerScore\GS-PowerScore\obj\Debug\net8.0\GS-PowerScore.AssemblyInfo.cs
+C:\Users\live_\source\repos\GS-PowerScore\GS-PowerScore\obj\Debug\net8.0\GS-PowerScore.csproj.CoreCompileInputs.cache
+C:\Users\live_\source\repos\GS-PowerScore\GS-PowerScore\obj\Debug\net8.0\GS-PowerScore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\live_\source\repos\GS-PowerScore\GS-PowerScore\obj\Debug\net8.0\GS-PowerScore.RazorAssemblyInfo.cache
+C:\Users\live_\source\repos\GS-PowerScore\GS-PowerScore\obj\Debug\net8.0\GS-PowerScore.RazorAssemblyInfo.cs
